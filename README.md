@@ -1,4 +1,3 @@
-HandCanvas
 HandCanvas is a Python-based application that enables virtual drawing using hand gestures detected via a webcam. By leveraging OpenCV and MediaPipe, this project allows users to draw on a canvas in real-time with their fingers. The canvas supports multiple colors and provides an intuitive interface for dynamic drawing.
 
 Features
